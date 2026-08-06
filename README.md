@@ -51,23 +51,8 @@ I'm **Lawrence**. This is my save file for projects, experiments, and new skills
 <div align="center">
   <a href="https://github.com/Lawrenc3U">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Lawrenc3U&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" />
-      <img height="165" src="https://github-readme-stats.vercel.app/api?username=Lawrenc3U&show_icons=true&hide_border=true&theme=default&rank_icon=github" alt="Lawrence's GitHub statistics" />
-    </picture>
-  </a>
-  <a href="https://github.com/Lawrenc3U">
-    <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Lawrenc3U&theme=github-dark-blue&hide_border=true" />
       <img height="165" src="https://streak-stats.demolab.com?user=Lawrenc3U&theme=default&hide_border=true" alt="Lawrence's GitHub contribution streak" />
-    </picture>
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/Lawrenc3U">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Lawrenc3U&layout=compact&hide_border=true&theme=github_dark" />
-      <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lawrenc3U&layout=compact&hide_border=true&theme=default" alt="Most used languages in Lawrence's public repositories" />
     </picture>
   </a>
 </div>
@@ -82,14 +67,7 @@ I'm **Lawrence**. This is my save file for projects, experiments, and new skills
 ## `LIVE ACTIVITY`
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lawrenc3U/Profile/output/github-contribution-grid-snake-dark.svg" />
-    <img src="https://raw.githubusercontent.com/Lawrenc3U/Profile/output/github-contribution-grid-snake.svg" alt="Animated contribution graph" />
-  </picture>
-</div>
-
-<div align="center">
-  <sub>The contribution snake refreshes daily after the GitHub Actions workflow has run.</sub>
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&duration=1700&pause=500&color=FF79C6&center=true&vCenter=true&width=700&lines=ACHIEVEMENT+UNLOCKED%3A+KEEP+BUILDING;NEW+PROJECTS+LOADING..." alt="Animated pixel message: Achievement unlocked, keep building. New projects loading." />
 </div>
 
 ## `CONTINUE?`
