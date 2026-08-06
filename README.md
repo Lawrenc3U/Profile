@@ -1,30 +1,52 @@
 <div align="center">
 
-# Hi, I'm Lawrence
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,45:58A6FF,100:FF79C6&height=5&section=header" alt="" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=600&lines=Building%2C+learning%2C+and+shipping+on+the+web.;Welcome+to+my+GitHub+profile." alt="Typing introduction: Building, learning, and shipping on the web." />
+<pre>
+██╗      █████╗ ██╗    ██╗██████╗ ███████╗███╗   ██╗ ██████╗██████╗ ██╗   ██╗
+██║     ██╔══██╗██║    ██║██╔══██╗██╔════╝████╗  ██║██╔════╝██╔══██╗██║   ██║
+██║     ███████║██║ █╗ ██║██████╔╝█████╗  ██╔██╗ ██║██║     ██████╔╝██║   ██║
+██║     ██╔══██║██║███╗██║██╔══██╗██╔══╝  ██║╚██╗██║██║     ██╔══██╗██║   ██║
+███████╗██║  ██║╚███╔███╔╝██║  ██║███████╗██║ ╚████║╚██████╗██████╔╝╚██████╔╝
+╚══════╝╚═╝  ╚═╝ ╚══╝╚══╝ ╚═╝  ╚═╝╚══════╝╚═╝  ╚═══╝ ╚═════╝╚═════╝  ╚═════╝
+</pre>
 
-[![Profile views](https://komarev.com/ghpvc/?username=Lawrenc3U&label=Profile%20views&color=58A6FF&style=flat)](https://github.com/Lawrenc3U)
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=2600&pause=900&color=58A6FF&center=true&vCenter=true&width=900&lines=PLAYER+ONE%3A+LAWRENCE;BUILDING+%7C+LEARNING+%7C+SHIPPING;PRESS+START+TO+EXPLORE+MY+CODE" alt="Pixel-style animated introduction: Player One Lawrence, building, learning, and shipping." />
+
+<br />
+
+[![Profile views](https://komarev.com/ghpvc/?username=Lawrenc3U&label=PROFILE+VIEWS&color=58A6FF&style=flat-square)](https://github.com/Lawrenc3U)
+[![GitHub followers](https://img.shields.io/github/followers/Lawrenc3U?label=FOLLOWERS&style=flat-square&color=FF79C6&labelColor=0D1117)](https://github.com/Lawrenc3U?tab=followers)
 
 </div>
 
-## About me
+## `PLAYER PROFILE`
 
-I'm **Lawrence**, a developer who enjoys turning ideas into useful projects. This is where I share what I'm building, learning, and improving along the way.
+```text
+> STATUS: ONLINE
+> CLASS: DEVELOPER
+> MISSION: Turn ideas into useful projects.
+```
 
-- Currently exploring new tools and technologies
-- Open to collaboration and interesting project ideas
-- Find my projects below, or connect with me on GitHub
+I'm **Lawrence**. This is my save file for projects, experiments, and new skills.
 
-## Toolbox
+- `NOW PLAYING` — Exploring new tools and technologies
+- `CO-OP MODE` — Open to collaboration and project ideas
+- `NEXT LEVEL` — Find a project below or connect on GitHub
 
-<p>
-  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</p>
+## `LOADOUT`
 
-## GitHub activity
+<div align="center">
+  <a href="https://github.com/Lawrenc3U/WISEPATHSYS">
+    <img src="https://skillicons.dev/icons?i=ts,swift,py,css,js,bash,git,github&theme=dark&perline=8" alt="TypeScript, Swift, Python, CSS, JavaScript, Bash, Git, and GitHub icons" />
+  </a>
+</div>
+
+<div align="center">
+  <sub>Language icons reflect the languages detected in my public repositories.</sub>
+</div>
+
+## `PLAYER STATS`
 
 <div align="center">
   <a href="https://github.com/Lawrenc3U">
@@ -52,17 +74,34 @@ I'm **Lawrence**, a developer who enjoys turning ideas into useful projects. Thi
 
 <div align="center">
   <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Lawrenc3U&bg_color=0d1117&color=58a6ff&line=ff79c6&point=ffffff&area=true&hide_border=true" />
+    <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Lawrenc3U&bg_color=ffffff&color=0969da&line=bf3989&point=24292f&area=true&hide_border=true" alt="Lawrence's GitHub contribution activity graph" />
+  </picture>
+</div>
+
+## `LIVE ACTIVITY`
+
+<div align="center">
+  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lawrenc3U/Profile/output/github-contribution-grid-snake-dark.svg" />
     <img src="https://raw.githubusercontent.com/Lawrenc3U/Profile/output/github-contribution-grid-snake.svg" alt="Animated contribution graph" />
   </picture>
 </div>
 
-## Let's connect
+<div align="center">
+  <sub>The contribution snake refreshes daily after the GitHub Actions workflow has run.</sub>
+</div>
 
-[![GitHub](https://img.shields.io/badge/GitHub-Lawrenc3U-181717?style=for-the-badge&logo=github)](https://github.com/Lawrenc3U)
+## `CONTINUE?`
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GITHUB-Lawrenc3U-181717?style=for-the-badge&logo=github)](https://github.com/Lawrenc3U)
+
+</div>
 
 ---
 
 <div align="center">
-  <i>Thanks for stopping by.</i>
+  <code>GAME OVER? NEVER. CHECK BACK FOR NEW BUILDS.</code>
 </div>
